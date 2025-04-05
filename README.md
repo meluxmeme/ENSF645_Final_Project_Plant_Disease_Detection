@@ -14,11 +14,7 @@ The dataset used for training and evaluating the models is the **PlantVillage Da
 ## Project Structure
 ```
 .
-├── data/                   # Contains dataset files
-├── models/                 # Stores trained model files
-├── notebooks/              # Jupyter notebooks for exploratory analysis
-├── scripts/                # Scripts for preprocessing, training, and evaluation
-├── results/                # Outputs from model evaluations and predictions
+├── Model_Notebooks/        # Stores trained model files
 └── README.md               # Project documentation
 ```
 
@@ -38,18 +34,12 @@ Clone this repository:
 ```bash
 git clone https://github.com/meluxmeme/ENSF645_Final_Project_Plant_Disease_Detection.git
 cd ENSF645_Final_Project_Plant_Disease_Detection
-pip install -r requirements.txt
 ```
 
 ### Usage
 - **Training the model:**
 ```bash
-python scripts/train_model.py
-```
-
-- **Predicting diseases from images:**
-```bash
-python scripts/predict.py --image_path path/to/image.jpg
+Run the ipynb file
 ```
 
 ## Authors
