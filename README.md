@@ -36,6 +36,9 @@ git clone https://github.com/meluxmeme/ENSF645_Final_Project_Plant_Disease_Detec
 cd ENSF645_Final_Project_Plant_Disease_Detection
 ```
 
+### Report
+**Link to Report:** [Report](https://uofc-my.sharepoint.com/:w:/r/personal/laxmi_paudel_ucalgary_ca/_layouts/15/Doc.aspx?sourcedoc=%7B3186E8A3-DC11-4CD3-83F6-D729DD8054F6%7D&file=ENEL645_FinalProject_Group13_Report.docx&fromShare=true&action=default&mobileredirect=true)
+
 ### Usage
 - **Training the model:**
 ```bash
